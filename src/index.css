@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+  :root {
+    --background: 210 60% 98%;
+    --primary: 210 75% 57%;
+  }
+
+body{
+  font-family: 'Inter', sans-serif; /* or 'Roboto', sans-serif */
+    line-height: 1.6; /* Ensures smooth text spacing */
+    letter-spacing: 0.5px; /* Slightly adjusted letter spacing for smoothness */
+  }
+}

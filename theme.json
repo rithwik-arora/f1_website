@@ -1,0 +1,8 @@
+{
+    "variant": "professional",
+    "primary": "hsl(210, 75%, 57%)",
+    "background": "hsl(210, 60%, 98%)",
+    "appearance": "light",
+    "radius": 0.5
+  }
+  
